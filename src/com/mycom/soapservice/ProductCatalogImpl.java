@@ -16,6 +16,7 @@ public class ProductCatalogImpl implements ProductCatalog {
 	 books.add("Harry Potter");
 	 books.add("Jungle Book");
 	 books.add("Cartoon book");
+	 books.add("my book");
 	 
 	 music.add("Classic");
 	 music.add("Rock");
